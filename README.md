@@ -3,7 +3,7 @@
 <h2>Sobre mi 😃</h2>
 Llevo programando y creando proyectos web desde los 12 años, impulsado siempre por la curiosidad y el aprendizaje autodidacta. 
 
-Mi trayectoria empezó trasteando con paginas webs y proyectos en Yahoo, después me  gusto mucho más el m undo del diseño digital (UI, logos y caratulas, tarjetas de visitas, flayers) y se consolidó cuando me gradué como **Técnico en Sistemas Microinformáticos y Redes / Desarrollo** en España.
+Mi trayectoria empezó trasteando con paginas webs y proyectos en Yahoo, después me  gusto mucho más el mundo del diseño digital (UI, logos y caratulas, tarjetas de visitas, flayers) y se consolidó cuando me gradué como **Técnico en Sistemas Microinformáticos y Redes / Desarrollo** en España.
 
 #### 🚀 Hitos destacados:
 - **Administrador de Sistemas, Servidores e Infraestructura (10 años):**  
